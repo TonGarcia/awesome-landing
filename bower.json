@@ -1,0 +1,24 @@
+{
+  "name": "awesome-landing",
+  "homepage": "https://github.com/TonGarcia/awesome-landing",
+  "authors": [
+    "Ilton Silveira <ton.garcia.jr@gmail.com>"
+  ],
+  "description": "Awesome Landing Page from Creative-Tim",
+  "main": "assets/css/landing-page.css",
+  "keywords": [
+    "landing",
+    "page",
+    "css",
+    "creative-tim"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
